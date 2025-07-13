@@ -1,3 +1,4 @@
+/* Existing Portfolio Styles */
 body {
   font-family: 'Quicksand', sans-serif;
   margin: 0;
@@ -81,31 +82,4 @@ form button {
   font-size: 1em;
   border: none;
   border-radius: 8px;
-  cursor: pointer;
-  transition: 0.3s;
-}
-
-form button:hover {
-  background: #0d9488;
-}
-
-footer {
-  text-align: center;
-  padding: 15px;
-  background: #ccfbf1;
-  font-size: 14px;
-  color: #555;
-  margin-top: 40px;
-  border-top: 1px solid #ddd;
-}
-
-@media (max-width: 600px) {
-  nav ul {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  header h1 {
-    font-size: 2em;
-  }
-}
+  cursor: poi
